@@ -10,7 +10,7 @@ params:
     title: "kiberdruzhinnik" # optional default will be site title
     subtitle: "Прохождения CTF-машин."
     imageUrl: "/author.png" # optional
-    imageTitle: "<title of image as alt>" # optional
+    imageTitle: "kiberdruzhinnik" # optional
     imageWidth: 240 # custom size
     imageHeight: 240 # custom size
     buttons:
