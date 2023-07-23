@@ -4,10 +4,6 @@ DefaultContentLanguage: "ru"
 title: "kiberdruzhinnik.ru"
 theme: "hugo-PaperMod"
 
-permalinks:
-  page:
-    posts: ":year/:month/:slug/"
-
 params:
     profileMode:
         enabled: true
