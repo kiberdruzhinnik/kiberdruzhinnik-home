@@ -17,7 +17,7 @@ params:
       - name: Блог
         url: "https://blog.kiberdruzhinnik.ru"
   assets:
-    disableFingerprinting: true
+    disableFingerprinting: false
 
   socialIcons: # optional
     - name: "Linkedin"
