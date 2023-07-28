@@ -3,6 +3,7 @@ languageCode: "ru-ru"
 DefaultContentLanguage: "ru"
 title: "kiberdruzhinnik.ru"
 theme: "hugo-PaperMod"
+enableRobotsTXT: true
 
 params:
   profileMode:
