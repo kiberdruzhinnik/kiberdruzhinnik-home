@@ -6,6 +6,35 @@ theme: "hugo-PaperMod"
 enableRobotsTXT: true
 
 params:
+  author: "kiberdruzhinnik"
+  description: "Прохождения CTF-машин."
+  keywords: [ 
+      "application", 
+      "appsec", 
+      "capture the flag",
+      "ctf",
+      "engineering",
+      "hackthebox", 
+      "htb", 
+      "information",
+      "offensive",
+      "oscp", 
+      "oswe", 
+      "pentest", 
+      "professional",
+      "reverse",
+      "security", 
+      "tryhackme", 
+      "vulnhub", 
+      "writeup", 
+      "безопасность", 
+      "блог", 
+      "инжиниринг",
+      "информационная",
+      "пентест", 
+      "прохождение", 
+      "реверс",
+  ]
   profileMode:
     enabled: true
     title: "kiberdruzhinnik" # optional default will be site title
