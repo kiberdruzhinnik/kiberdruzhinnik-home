@@ -4,6 +4,7 @@ DefaultContentLanguage: "ru"
 title: "kiberdruzhinnik.ru"
 theme: "hugo-PaperMod"
 enableRobotsTXT: true
+disableKinds: ["taxonomy", "taxonomyTerm"]
 
 params:
   author: "kiberdruzhinnik"
