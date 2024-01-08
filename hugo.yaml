@@ -8,7 +8,7 @@ disableKinds: ["taxonomy", "taxonomyTerm"]
 
 params:
   author: "kiberdruzhinnik"
-  description: "Прохождения CTF-машин."
+  description: "Инфобез и прохождения CTF-машин. Ресурсы для киберкотанов. 🛡️😻"
   keywords: [ 
       "application", 
       "appsec", 
@@ -39,7 +39,7 @@ params:
   profileMode:
     enabled: true
     title: "kiberdruzhinnik" # optional default will be site title
-    subtitle: "Прохождения CTF-машин."
+    subtitle: "Инфобез и прохождения CTF-машин. Ресурсы для киберкотанов. 🛡️😻"
     imageUrl: "/author.png" # optional
     imageTitle: "kiberdruzhinnik" # optional
     imageWidth: 240 # custom size
@@ -51,7 +51,12 @@ params:
     disableFingerprinting: false
 
   socialIcons: # optional
-    - name: "Linkedin"
-      url: "https://www.linkedin.com/in/kotasha-romanov/"
     - name: "Telegram"
       url: "https://t.me/kiberdruzhinnik"
+    - name: "YouTube"
+      url: "https://youtube.com/@kiberdruzhinnik"
+    - name: "GitHub"
+      url: "https://github.com/kiberdruzhinnik"
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/kotasha-romanov/"
+
