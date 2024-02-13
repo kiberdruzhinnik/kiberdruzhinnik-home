@@ -53,6 +53,8 @@ params:
   socialIcons: # optional
     - name: "Telegram"
       url: "https://t.me/kiberdruzhinnik"
+    - name: "Boosty"
+      url: "https://boosty.to/kiberdruzhinnik"
     - name: "YouTube"
       url: "https://youtube.com/@kiberdruzhinnik"
     - name: "GitHub"
