@@ -38,8 +38,8 @@ params:
   ]
   profileMode:
     enabled: true
-    title: "kiberdruzhinnik" # optional default will be site title
-    subtitle: "Ресурсы для киберкотанов. 🛡️😻"
+    title: "Кибердружинник" # optional default will be site title
+    subtitle: "Безопасность для киберкотанов. 😻"
     imageUrl: "/author.png" # optional
     imageTitle: "kiberdruzhinnik" # optional
     imageWidth: 240 # custom size
