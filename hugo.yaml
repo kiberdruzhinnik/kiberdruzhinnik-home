@@ -8,34 +8,35 @@ disableKinds: ["taxonomy", "taxonomyTerm"]
 
 params:
   author: "kiberdruzhinnik"
-  description: "Инфобез и прохождения CTF-машин. Ресурсы для киберкотанов. 🛡️😻"
-  keywords: [ 
-      "application", 
-      "appsec", 
+  description: "Безопасность для котанов. 😻"
+  keywords:
+    [
+      "application",
+      "appsec",
       "capture the flag",
       "ctf",
       "engineering",
-      "hackthebox", 
-      "htb", 
+      "hackthebox",
+      "htb",
       "information",
       "offensive",
-      "oscp", 
-      "oswe", 
-      "pentest", 
+      "oscp",
+      "oswe",
+      "pentest",
       "professional",
       "reverse",
-      "security", 
-      "tryhackme", 
-      "vulnhub", 
-      "writeup", 
-      "безопасность", 
-      "блог", 
+      "security",
+      "tryhackme",
+      "vulnhub",
+      "writeup",
+      "безопасность",
+      "блог",
       "инжиниринг",
       "информационная",
-      "пентест", 
-      "прохождение", 
+      "пентест",
+      "прохождение",
       "реверс",
-  ]
+    ]
   profileMode:
     enabled: true
     title: "Кибердружинник" # optional default will be site title
@@ -63,4 +64,3 @@ params:
       url: "https://github.com/kiberdruzhinnik"
     - name: "Linkedin"
       url: "https://www.linkedin.com/in/kotasha-romanov/"
-
