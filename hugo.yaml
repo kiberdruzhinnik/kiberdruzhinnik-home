@@ -58,6 +58,8 @@ params:
       url: "https://boosty.to/kiberdruzhinnik"
     - name: "YouTube"
       url: "https://youtube.com/@kiberdruzhinnik"
+    - name: "VK"
+      url: "https://vk.com/konstantinromanov"
     - name: "RuTube"
       url: "https://rutube.ru/channel/35510579/"
     - name: "GitHub"
