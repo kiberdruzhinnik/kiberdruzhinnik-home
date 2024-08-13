@@ -56,8 +56,6 @@ params:
       url: "https://t.me/kiberdruzhinnik"
     - name: "Boosty"
       url: "https://boosty.to/kiberdruzhinnik"
-    - name: "RuTube"
-      url: "https://rutube.ru/channel/35510579/videos/"
     - name: "VK"
       url: "https://vk.com/video/@konstantinromanov"
     - name: "YouTube"
