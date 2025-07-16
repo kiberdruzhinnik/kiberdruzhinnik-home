@@ -41,10 +41,10 @@ params:
     enabled: true
     title: "Константин Романов" # optional default will be site title
     subtitle: "Безопасность для котанов. 😻"
-    imageUrl: "/author2.png" # optional
-    imageTitle: "kiberdruzhinnik" # optional
-    imageWidth: 240 # custom size
-    imageHeight: 240 # custom size
+    # imageUrl: "/author2.png" # optional
+    # imageTitle: "kiberdruzhinnik" # optional
+    # imageWidth: 240 # custom size
+    # imageHeight: 240 # custom size
   assets:
     disableFingerprinting: false
 
