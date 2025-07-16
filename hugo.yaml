@@ -6,6 +6,10 @@ theme: "hugo-PaperMod"
 enableRobotsTXT: true
 disableKinds: ["taxonomy", "taxonomyTerm"]
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 params:
   author: "kiberdruzhinnik"
   description: "Безопасность для котанов. 😻"
